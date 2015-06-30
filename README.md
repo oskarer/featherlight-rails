@@ -28,7 +28,7 @@ For using in your Rails project, include the featherlight in your **application.
 //= require jquery
 //= require featherlight
 ```
-Also include the css
+Also include the css in **application.css**
 ```
  *= require featherlight
 ```
