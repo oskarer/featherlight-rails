@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['oskar.eriksson9@gmail.com']
   spec.description   = 'Featherlight - ultra slim jQuery lightbox'
   spec.summary       = 'This is just Featherlight.js wrapped in Ruby gem for your asset pipeline'
-  spec.homepage      = ''
+  spec.homepage      = 'http://noelboss.github.io/featherlight/'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
