@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Featherlight::VERSION
   spec.authors       = ['Oskar Eriksson']
   spec.email         = ['oskar.eriksson9@gmail.com']
-  spec.description   = 'Featherlight - ultra slim jQuery lightbox'
+  spec.description   = 'Featherlight - ultra slim jQuery lightbox, version 1.3.2'
   spec.summary       = 'This is just Featherlight.js wrapped in Ruby gem for your asset pipeline'
   spec.homepage      = 'http://noelboss.github.io/featherlight/'
   spec.license       = 'MIT'

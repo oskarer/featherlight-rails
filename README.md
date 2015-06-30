@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/featherlight.svg)](http://badge.fury.io/rb/featherlight)
 # Featherlight 1.3.2
 
 The lightweight and easy to use lightbox jQuery plugin Featherlight, as a ruby gem. Current version is **1.3.2**,
