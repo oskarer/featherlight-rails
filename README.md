@@ -27,11 +27,15 @@ For using in your Rails project, include the featherlight in your **application.
 ```javascript
 //= require jquery
 //= require featherlight
+//= require featherlight-gallery
 ```
 Also include the css in **application.css**
 ```
  *= require featherlight
+ *= require featherlight-gallery
 ```
+
+**NOTE:** Including *featherlight-gallery* is only needed if you want the [gallery functionality](https://github.com/noelboss/featherlight/#featherlight-gallery).
 
 ## Contributing
 
