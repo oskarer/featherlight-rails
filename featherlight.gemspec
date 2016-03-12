@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Oskar Eriksson']
   spec.email         = ['oskar.eriksson9@gmail.com']
   spec.description   = 'Featherlight - ultra slim jQuery lightbox'
-  spec.summary       = 'This is just Featherlight.js wrapped in Ruby gem for your asset pipeline'
+  spec.summary       = 'Featherlight.js wrapped in Ruby gem for your asset pipeline'
   spec.homepage      = 'https://github.com/oeriks/featherlight-rails'
   spec.license       = 'MIT'
 
@@ -19,5 +19,5 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
 
   spec.add_development_dependency 'bundler', '~> 1.3'
-  spec.add_development_dependency 'rake'
+  spec.add_development_dependency 'rake', '~> 0'
 end

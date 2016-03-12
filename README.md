@@ -1,7 +1,7 @@
 [![Gem Version](https://badge.fury.io/rb/featherlight.svg)](http://badge.fury.io/rb/featherlight)
 # Featherlight.js
 
-The lightweight and easy to use lightbox jQuery plugin Featherlight, as a ruby gem. Current version is **1.3.4**,
+The lightweight and easy to use lightbox jQuery plugin Featherlight, as a ruby gem. Current version is **1.3.5**,
 see [the official website](http://noelboss.github.io/featherlight/) for more info.
 
 ## Installation
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-This just adds the required javascripts and stylesheets to Rails project, see
+This just adds the required JavaScript and CSS files to your Rails project, see
 [the official website](http://noelboss.github.io/featherlight/) for usage instructions.
 
 For using in your Rails project, include the featherlight in your **application.js** after including jQuery
